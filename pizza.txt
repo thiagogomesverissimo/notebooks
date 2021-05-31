@@ -1,0 +1,31 @@
+# Memorandum Data Analysis for a Pizza Company
+
+Our Pizza Company Name: Brazilian Pizza Inc.
+Our Pizza Company Name Competitor: Br Pizza Inc.
+
+Variables to be collected:
+
+## A survey should be created with the following questions:
+
+0. Gender: male, female, other
+1. Age: Integer Number
+2. Food quality: From 1 to 5
+3. Service quality: From 1 to 5
+4. Ambience: From 1 to 5
+5. How did you learn from us: friends, TV, internet social networks, local newspaper, other
+6. Would you use a delivery system from us? Yes or No
+7. Pizza flavor preferred: choose from catalog
+8. Recommend this company to a friend: Yes or No
+
+A good idea is to provide a discount coupon for the client who respond the questionnaire.
+
+## Analyses
+
+The best approach here is to use some facet graphical mixing the categorical variables.
+
+- A barplot with grades for food, service and ambience quality, grouped by gender.
+- A age distribution to evaluate our client age format distribution. Boxplot too.
+- Barplot with flavors in percentage
+- To predict if a delivery system would be good, a facet graph with quality grades by "Would you use a delivery system from us".
+- A facet graph with quality grades by "Recommend this company to a friend"
+- Pie chart with: "How did you learn from" sources. To discover what media is better to invest
