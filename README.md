@@ -1,3 +1,9 @@
-Meus rascunhos de python escritos em notebooks:
+Meus rascunhos de python escritos em notebooks
 
-    jupyter-notebook
+Subindo ambiente:
+
+    python3 -m venv venv
+    source venv/bin/activate
+    pip3 install -r requirements.txt
+    jupyter-lab
+
