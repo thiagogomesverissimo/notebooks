@@ -1,4 +1,4 @@
-numpy==1.23.2
+numpy==1.26.4
 pandas==1.4.3
 plotly==5.10.0
 jupyterlab==3.5.0
@@ -6,3 +6,7 @@ seaborn==0.12.1
 statsmodels==0.14
 lxml==4.9.3
 bs4==0.0.1
+bibtexparser==2.0.0b7
+pybtex==0.24.0
+networkx==3.3
+pybtexris==0.1.2
