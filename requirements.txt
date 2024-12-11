@@ -13,3 +13,5 @@ pybtexris==0.1.2
 pylatexenc==3.0a30
 pybtexnbib==0.1.2
 PyMuPDF==1.25.0
+PyPaperBot==1.4.1
+undetected-chromedriver==3.5.5
