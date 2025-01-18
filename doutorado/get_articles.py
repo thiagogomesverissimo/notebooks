@@ -6,3 +6,5 @@ for doi in dois; do
     /home/thiago/repos/notebooks/venv/bin/python3 -m PyPaperBot --doi="$doi" --dwn-dir="/home/thiago/systematic_review" -use-doi-as-filename
 done
 
+/home/thiago/repos/notebooks/venv/bin/python3 -m PyPaperBot --doi="10.1111/bjet.13089" --dwn-dir="/home/thiago/systematic_review" -use-doi-as-filename
+
